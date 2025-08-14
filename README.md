@@ -71,18 +71,18 @@ Here are some images showing the layout of the application:
 
 ________________________________________
 
-<h4 align="center">Chat_friends 🥰 🚀</h4>
+<h4 align="center">Grafic 🥰 🚀</h4>
 
 <div align="center">
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="1_Concept_Pd_img_project/5_Dealing_missing_data/1_dealing_missing_data.png" style="width: 90%;" alt="Dealing_missing_data">
-                <p style="margin-top: 5px;">Dealing_missing_data</p>
+                <img src="3_Visualization_Data_Matplotlib_img/10_figsize.png" style="width: 90%;" alt="figsize">
+                <p style="margin-top: 5px;">figsize</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="1_Concept_Pd_img_project/7_concat_merge_join/2_method_concat_axis.png" style="width: 90%;" alt="Method_concat_axis">
-                <p style="margin-top: 5px;">Method_concat_axis</p>
+                <img src="3_Visualization_Data_Matplotlib_img/11_comportamento_multiplas_linhas.png" style="width: 90%;" alt="Comportamento_multiplas_linhas">
+                <p style="margin-top: 5px;">comportamento_multiplas_linhas</p>
             </td>
         </tr>
     </table>
@@ -98,12 +98,12 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/10_Codig_Type_BD.png" style="width: 90%;" alt="Codig_Type_BD">
-                <p style="margin-top: 5px;">Codig_Type_BD</p>
+                <img src="3_Visualization_Data_Matplotlib_img/20_boxplot_grafic.png" style="width: 90%;" alt="boxplot_grafic">
+                <p style="margin-top: 5px;">boxplot_grafic</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/11_Table_Type.png" style="width: 90%;" alt="Table_Type">
-                <p style="margin-top: 5px;">Table_Type</p>
+                <img src="3_Visualization_Data_Matplotlib_img/19_grafic_estograma.png" style="width: 90%;" alt="grafic_estograma">
+                <p style="margin-top: 5px;">grafic_estograma</p>
             </td>
         </tr>
     </table>
@@ -116,18 +116,18 @@ ________________________________________
   ________________________________________
 
   
-<h4 align="center">Chat_friends 🥰 🚀</h4>
+<h4 align="center">Grafic 🥰 🚀</h4>
 
 <div align="center">
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/13_Insert_date_Table.png" style="width: 90%;" alt="Insert_date_Table">
-                <p style="margin-top: 5px;">Insert_date_Table</p>
+                <img src="3_Visualization_Data_Matplotlib_img/17_varios_graf_varios_valores.png" style="width: 90%;" alt="varios_graf_varios_valores">
+                <p style="margin-top: 5px;">varios_graf_varios_valores</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/15_Filter_conditional_AND.png" style="width: 90%;" alt="Filter_conditional_AND">
-                <p style="margin-top: 5px;">Filter_conditional_AND</p>
+                <img src="3_Visualization_Data_Matplotlib_img/18_graf_pontos.png" style="width: 90%;" alt="graf_pontos">
+                <p style="margin-top: 5px;">graf_pontos</p>
             </td>
         </tr>
     </table>
@@ -143,12 +143,12 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/2_alter_name_index_name.png" style="width: 90%;" alt="Alter_name_index_name">
+                <img src="3_Visualization_Data_Matplotlib_img/5_date_orientado_objet.png" style="width: 90%;" alt="date_orientado_objet">
                 <p style="margin-top: 5px;">Alter_name_index_name</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/6_BD_SQlite_memorry_disck_Rigd.png" style="width: 90%;" alt="BD_SQlite_memorry_disck_Rigd">
-                <p style="margin-top: 5px;">BD_SQlite_memorry_disck_Rigd</p>
+                <img src="3_Visualization_Data_Matplotlib_img/6_2_eixos_2_graf_orient_obj.png" style="width: 90%;" alt="eixos_2_graf_orient_obj">
+                <p style="margin-top: 5px;">eixos_2_graf_orient_obj</p>
             </td>
         </tr>
     </table>
@@ -160,18 +160,18 @@ ________________________________________
 
   ________________________________________
 
-<h4 align="center">Chat_friends 🥰 🚀</h4>
+<h4 align="center">Grafics 🥰 🚀</h4>
 
 <div align="center">
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas/4_Projectos/3_Proj_ GDP_Per_Person_Img/16_grafico_03_Evolução media por regiao.png" style="width: 90%;" alt="grafico_03_Evolução media por regiao">
-                <p style="margin-top: 5px;">grafico_03_Evolução media por regiao</p>
+                <img src="3_Visualization_Data_Matplotlib_img/8_interacao_entre_valores.png" style="width: 90%;" alt="interacao_entre_valores">
+                <p style="margin-top: 5px;">interacao_entre_valores</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas/4_Projectos/3_Proj_ GDP_Per_Person_Img/19_matplotlib_grafic_estimativ.png" style="width: 90%;" alt="GDP_Per_Person_Img/19_matplotlib_grafic_estimativ">
-                <p style="margin-top: 5px;">GDP_Per_Person_Img/19_matplotlib_grafic_estimativ</p>
+                <img src="3_Visualization_Data_Matplotlib_img/9_other_plotagem.png" style="width: 90%;" alt="other_plotagem">
+                <p style="margin-top: 5px;">other_plotagem</p>
             </td>
         </tr>
     </table>
@@ -187,12 +187,12 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas/4_Projectos/3_Proj_ GDP_Per_Person_Img/24_img_Year_project_new.png" style="width: 90%;" alt="Year_project_new">
-                <p style="margin-top: 5px;">Year_project_new</p>
+                <img src="3_Visualization_Data_Matplotlib_img/2_img_eixo_x_y.png" style="width: 90%;" alt="img_eixo_x_y">
+                <p style="margin-top: 5px;">img_eixo_x_y</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas/4_Projectos/3_Proj_ GDP_Per_Person_Img/25_img_interative.png" style="width: 90%;" alt="img_interative">
-                <p style="margin-top: 5px;">img_interative</p>
+                <img src="3_Visualization_Data_Matplotlib_img/3_subplot.png" style="width: 90%;" alt="subplot">
+                <p style="margin-top: 5px;">subplot</p>
             </td>
         </tr>
     </table>
