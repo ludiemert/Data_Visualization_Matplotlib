@@ -1,6 +1,6 @@
-# Data_Visualization_Matplotlib
+# 📊 Data Visualization with Matplotlib, 
 
-# 📊 Data Visualization with Matplotlib, course at Asimov Academy. I learned programming from beginning to expert level.
+#### Course at Asimov Academy. I learned programming from beginning to expert level.
 
 ## 🎯 What you will learn
 - **Introduction to Matplotlib** and why it is powerful for data visualization  
